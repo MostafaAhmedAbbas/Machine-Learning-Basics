@@ -1,0 +1,2 @@
+The method used is To evaluate the best clustering was the Min-Sums K-clustering. One is given n points in a metric space
+ and has to partition them into k clusters while minimizing the sum of pairwise distances between points in the same cluster.
